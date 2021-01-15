@@ -7,7 +7,7 @@
 * Web使用了hostloc上分享的皮肤，故此库名字为hostloc（https://www.hostloc.com/thread-494384-1-1.html ）
 * 将一键脚本内的连接修正为本库。预防外联库失联
 
-![screenshot](https://raw.githubusercontent.com/wxlost/ServerStatus-HostLoc/master/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/threexing/ServerStatus-HostLoc/master/screenshot.jpg)
 
 # 目录介绍：
 
